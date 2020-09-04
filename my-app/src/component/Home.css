@@ -1,0 +1,49 @@
+
+h1{
+    text-align: center;
+    margin-top: 2px;
+    color:darkblue;
+    font-style: oblique;
+    font-weight: bold;
+    
+}
+h2{
+    text-align: center;
+    color:rgb(3, 2, 14);
+    font-style: italic;
+} 
+
+.head{
+    margin-top:10px;
+     background-color:  hsla(185, 31%, 93%, 0.877);  
+   
+ 
+    
+     height: 87%; 
+    margin-bottom: 5px;
+}
+
+
+
+
+
+.end{
+  
+    text-align:center;
+    background-color: hsla(317, 24%, 74%, 0.486);  
+   
+      /* margin-bottom: 0px;  */
+      margin-top:85px; 
+      color:rgb(2, 0, 1);
+     
+     
+    
+    
+  }
+  .wellcome{
+
+    text-align: center;
+    font-size:30px;
+    color:silver;
+    font-family: 'Times New Roman', Times, serif;
+  }
